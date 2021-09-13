@@ -8,8 +8,7 @@
         "target_path":  "vendor/xiaomi/ginkgo"
     },
     {
-        "remote":       "github",
-        "repository":   "ArrowOS-Devices/android_vendor_miuicamera",
+        "repository":   "android_vendor_miuicamera",
         "target_path":  "vendor/miuicamera",
         "branch":       "arrow-11.0-a3"
     },
@@ -18,5 +17,6 @@
         "repository":   "ThankYouMario/proprietary_vendor_qcom_sdclang",
         "target_path":  "prebuilts/clang/host/linux-x86/clang-sdllvm",
         "branch":       "ruby-12"
+        "clone-depth":   "1"
     }
 ]
