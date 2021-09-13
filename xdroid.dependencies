@@ -1,6 +1,6 @@
 [
     {
-        "repository":   "kernel_xiaomi_ginkgo",
+        "repository":   "android_kernel_xiaomi_ginkgo",
         "target_path":  "kernel/xiaomi/ginkgo"
     },
     {
