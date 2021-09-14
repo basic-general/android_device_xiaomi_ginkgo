@@ -24,7 +24,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_p.mk)
 $(call inherit-product, device/xiaomi/ginkgo/device.mk)
 
 # Inherit some common xdroid stuff
-XDROID_BUILD_TYPE := OBT
+XDROID_BUILD_TYPE := STBL
 XDROID_BOOT_DARK := true
 XDROID_UI_BLUR := true
 TARGET_USE_GAPPS := true
